@@ -1,5 +1,5 @@
 # DailySeleniumPractice
-# to run Selenium Script on your local machine you need following things to do
+# Steps to run Selenium Script on your local machine
 1 - install eclipse 
 2 - create new java project
 3 - download new stable version of selenium
